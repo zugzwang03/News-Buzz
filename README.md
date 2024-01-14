@@ -1,5 +1,7 @@
 # NewsBuzz
 
+![image](https://github.com/zugzwang03/News-Buzz/assets/95460021/4bb570d2-97ad-4dfd-bead-14dfc7bf782e)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.9.
 
 ## Development server

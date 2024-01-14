@@ -1,0 +1,12 @@
+<h3 id="headline">Top News!</h3>
+<div>
+  <span *ngFor="let news of news.articles">
+    <app-news-item
+      [author]="news.author"
+      [date]="news.publishedAt"
+      [description]="news.description"
+      [image]="news.urlToImage"
+      [title]="news.title"
+    ></app-news-item>
+  </span>
+</div>

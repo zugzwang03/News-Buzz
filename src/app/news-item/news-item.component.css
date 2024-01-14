@@ -1,0 +1,37 @@
+#card {
+  width: 25%;
+  border-radius: 2.5%;
+  margin: 2%;
+  border: 2px solid black;
+  float: left;
+  height: 30%;
+  align-items: stretch;
+}
+
+#photo,
+#image {
+  width: 100%;
+  border-top-left-radius: 2.5%;
+  border-top-right-radius: 2.5%;
+}
+
+#title {
+  text-align: center;
+  font-size: 120%;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+#author {
+  color: rgb(77, 74, 74);
+  text-align: right;
+  padding-right: 5%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+#desc {
+  width: 90%;
+  text-align: justify;
+  margin: 2%;
+  padding: 2%;
+}
